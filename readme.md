@@ -1,0 +1,1 @@
+Just a app to learn how to do http post request to a spesific API and get the response.
